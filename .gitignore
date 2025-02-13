@@ -1,0 +1,19 @@
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+
+# CAM files
+*.$$$
+*.s#*
+*.b#*
+
+*.info
+
+*.eps
+
+# Windows
+desktop.ini
