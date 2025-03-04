@@ -1,0 +1,14 @@
+Partlist exported from C:/Users/filip/Documents/GitHub/open-ephys/vertical-profile-spi-headstage-32ch/hs-32-spi.sch at 3/4/2025 3:31 PM
+
+Qty Value                  Device                 Package            Parts             Description      
+1                          MOLEX_5050700622       MOLEX_5050700622   U3                Molex 5050700622 
+1   0                      R_0402                 0402               R0                Resistor         
+3   100                    R_0201                 0201               R1, R2, R3        Resistor         
+2   100n                   C_0402                 0402               C1, C3            Capacitor        
+1   10n                    C_0402                 0402               C2                Capacitor        
+3   27n                    C_0402                 0402               CX, CY, CZ        Capacitor        
+1   ADXL335                ADXL335                ADXL335            U2                                 
+1   OMNETICS_A79025        OMNETICS_A79025        OMNETICS_A79025    S1                                 
+1   RHD2000-CABLE-AMP-SIDE RHD2000-CABLE-AMP-SIDE OMNETICS_PZN-12-AA S2                                 
+1   RHD2132_QFN            RHD2132_QFN            QFN56_8_X_8_LARGE  U1                                 
+4   TESTPOINT_SMALL        TESTPOINT_SMALL        TESTPOINT_SMALL    DO, GND, REF, VDD PCB Test Point   
